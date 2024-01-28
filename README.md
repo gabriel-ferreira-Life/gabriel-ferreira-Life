@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabriel-ferreira-Life
-- 👀 I’m interested in finding an entry level position in the data analysis field.
-- 🌱 I’m currently learning data analysis skills.
+- 👀 I’m interested in advance my expertise in the data analysis field.
 - 💞️ I’m looking to collaborate on projects that have potential to make a positive impact in the society!
 - 📫 How to reach me https://www.linkedin.com/in/gab-ferreira/
 
